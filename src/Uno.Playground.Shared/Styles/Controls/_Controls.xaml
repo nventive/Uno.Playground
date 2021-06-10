@@ -6,6 +6,7 @@
 		<ResourceDictionary Source="CheckBox.xaml" />
 		<ResourceDictionary Source="ComboBox.xaml" />
 		<ResourceDictionary Source="CommandBar.xaml" />
+		<ResourceDictionary Source="ContentDialog.xaml" />
 		<ResourceDictionary Source="Frame.xaml" />
 		<ResourceDictionary Source="ListView.xaml" />
 		<ResourceDictionary Source="ListViewItem.xaml" />
